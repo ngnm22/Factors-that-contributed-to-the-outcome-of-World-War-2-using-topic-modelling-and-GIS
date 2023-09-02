@@ -1,4 +1,4 @@
-# Factors-that-contributed-to-the-outcome-of-World-War-2-using-topic-modelling-and-GIS
+# Factors that contributed to the outcome of World War 2 using topic modelling and GIS
 
 World War 2 (WW2) is known to this day as the deadliest war in history. Other than the 
 estimated death toll between 70 and 85 million, the impact of this event has influenced the 
